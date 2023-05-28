@@ -1,0 +1,13 @@
+dosya indirilir
+açıldığında top most özelliği sayesinde herzaman üstte kalır
+program metodları c# sln dosyası içinde açıklanmıştır
+görev yöneticisi ve alt f4 engellenmiştir 
+
+
+problem;
+
+çıkmak için görev yonticisi acıp alt tab ile görev yöneticisi seçilir fareye tıklamadan klavye ok tuşları ile program seçilir tab tuşu ile görevi sonlandır seçilir space tuşu ile program sonlandırılır
+
+problem için muhtemel çozum;
+ekran kilitlendiğinde arka plan şeffaflığı yerine bir resim koyulur kullanıcı işlem adımını tahmin edemeyeceği için programı kıramaz veya timer ile uygulama hep ön plana atılır
+ 
